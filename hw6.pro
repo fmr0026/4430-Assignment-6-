@@ -1,4 +1,4 @@
-%:- use_module(library(lambda)).
+:- use_module(library(lambda)).
  
 iq_puzzle :-
 	iq_puzzle(Moves),
